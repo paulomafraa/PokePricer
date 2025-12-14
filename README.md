@@ -1,4 +1,4 @@
-# PokePricer 2.0 🐉
+# PokePricer 2.0
 
 ![Status](https://img.shields.io/badge/STATUS-EM_DESENVOLVIMENTO-green?style=for-the-badge)
 ![.NET](https://img.shields.io/badge/.NET%20Framework-4.8-purple?style=for-the-badge)
